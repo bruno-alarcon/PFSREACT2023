@@ -1,0 +1,14 @@
+{
+    "status": "ok",
+    "persona": [
+        {
+            "nombre":"Lucas",
+            "apellido": "Martinez",
+            "edad": "47",
+            "sexo" : "Masculino",
+            "dni": "12313464",
+            "casado": "true"     
+         }
+    ]
+
+}
